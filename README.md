@@ -1,1 +1,1 @@
-# Speech-emotion-reckognition-int422
+# Speech-emotion-recognition-int422
